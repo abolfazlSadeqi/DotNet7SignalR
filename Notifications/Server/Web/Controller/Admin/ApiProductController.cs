@@ -1,10 +1,11 @@
-﻿using DAL.Model;
+﻿
 using DAL.Repository;
 using Microsoft.AspNetCore.Mvc;
 using AutoMapper;
 using Model;
 using Microsoft.AspNetCore.SignalR;
 using API.Signalr;
+using Contract.Repository;
 
 namespace API.Controller.Admin;
 

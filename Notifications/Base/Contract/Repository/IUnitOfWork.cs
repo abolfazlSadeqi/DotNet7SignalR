@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Repository;
+namespace Contract.Repository;
 
 public interface IUnitOfWork : IDisposable
 {

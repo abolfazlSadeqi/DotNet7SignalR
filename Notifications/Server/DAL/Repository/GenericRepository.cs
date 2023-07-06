@@ -1,4 +1,5 @@
-﻿using DAL.Contexts;
+﻿using Contract.Repository;
+using DAL.Contexts;
 using System;
 using System.Collections.Generic;
 using System.Linq;

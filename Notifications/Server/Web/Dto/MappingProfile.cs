@@ -1,5 +1,4 @@
 ﻿using AutoMapper;
-using DAL.Model;
 using Model;
 
 namespace API;

@@ -19,6 +19,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Base\Common\Common.csproj" />
+    <ProjectReference Include="..\..\Base\Contract\Contract.csproj" />
     <ProjectReference Include="..\..\Base\Model\Model.csproj" />
     <ProjectReference Include="..\DAL\DAL.csproj" />
   </ItemGroup>

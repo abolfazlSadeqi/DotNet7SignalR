@@ -5,7 +5,7 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DAL.Repository;
+namespace Contract.Repository;
 
 public interface IGenericRepository<T> where T : class
 {
