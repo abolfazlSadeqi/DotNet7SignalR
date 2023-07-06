@@ -11,8 +11,7 @@
 # Note: This is only used by command line
 ###############################################################################
 #*.cs     diff=csharp
-* linguist-vendored
-*.js linguist-vendored=true
+Server/Web/wwwroot/* linguist-vendored
 
 
 ###############################################################################
